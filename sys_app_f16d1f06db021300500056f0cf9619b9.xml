@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="sample">316d1346db021300500056f0cf961939</menu>
+        <name>sample</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_189273_sample</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_189273_sample</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-15 05:45:45</sys_created_on>
+        <sys_id>f16d1f06db021300500056f0cf9619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-15 05:45:45</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_189273_sample.user" name="x_189273_sample.user">756d1346db021300500056f0cf96193c</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
